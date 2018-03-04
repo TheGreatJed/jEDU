@@ -2,7 +2,7 @@
 
 Basics:
 
-Przejzyj zanim pojdziesz na rozmowe:
+Przejrzyj zanim pojdziesz na rozmowe:
 
 - wzorce projektowe
 - testy jednostkowe
