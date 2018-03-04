@@ -18,7 +18,7 @@ slf4-api   org.mockito
 guava
 log4j
 - Czym jest J-SON?
-
+- http://jakoszczedzacpieniadze.pl/finansowy-ninja
 Grouping of useful educational resources
 
 List :
