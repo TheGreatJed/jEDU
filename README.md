@@ -6,6 +6,7 @@ Przejrzyj zanim pojdziesz na rozmowe:
 
 - wzorce projektowe
 - testy jednostkowe
+https://devstyle.pl/2013/04/22/testy-jednostkowe-materialy-do-nauki/
 - programowanie obiejtowe
 - system kontroli wersji Git
 - Czym zajmuje sie firma i czym ty chcialbys sie zajmowac ?
