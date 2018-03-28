@@ -31,4 +31,5 @@ List :
 5. http://news.codecademy.com/what-is-machine-learning/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_2-22-18&utm_content=whatismachinelearning
 6. https://github.com/collections/machine-learning
 
-
+CMD:
+https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/
