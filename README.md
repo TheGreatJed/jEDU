@@ -33,3 +33,4 @@ List :
 
 CMD:
 https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/
+https://www.youtube.com/watch?v=BnJ013X02b8
