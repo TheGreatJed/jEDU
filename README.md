@@ -7,7 +7,7 @@ Przejrzyj zanim pojdziesz na rozmowe:
 - wzorce projektowe
 - testy jednostkowe
 https://devstyle.pl/2013/04/22/testy-jednostkowe-materialy-do-nauki/
-- programowanie obiejtowe
+- programowanie obiektowe
 - system kontroli wersji Git
 - Czym zajmuje sie firma i czym ty chcialbys sie zajmowac ?
 - Framework-teoria (bootstrap, Android)
